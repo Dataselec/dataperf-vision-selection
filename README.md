@@ -260,5 +260,3 @@ TBD.
 ## Closed Division: Offline evaluation of a submission
 
 TBD.
-
-test commit
