@@ -2,6 +2,8 @@
 
 Testing setup -- Soumi
 
+Testing setup -- Soumi on server
+
 ### **Current version:** beta
 
 This github repo serves as the starting point for offline evaluation of submissions for the training data selection visual benchmark. The offline evaluation can be run on both your local environment as well as a containerized image for reproducibility of score results.
